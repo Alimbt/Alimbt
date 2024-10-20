@@ -1,7 +1,5 @@
-- 👋 Hi, I’m mbt
-- 👀 interested in mobile 🙃
-- 🌱 currently learning android development 😬🤞
-- 💞️ looking to collaborate on developers😂
+- alireza
+- 🌱 currently learning android development
 - 📫 contacts:
 - instagram: mbt.ir
 - whatsup: +98 994 078 64 87
