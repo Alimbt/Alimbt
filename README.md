@@ -1,12 +1,5 @@
 - alireza
 - 🌱 currently learning android development
 - 📫 contacts:
-- instagram: mbt.ir
-- whatsup: +98 994 078 64 87
+- instagram: azerila_gnarfa 
 - telegram : alimbt_ir
-- email: alireza.afrang83@gmail.com 
-
-<!---
-Alimbt/Alimbt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
